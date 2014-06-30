@@ -6,7 +6,7 @@
     </list>
     <ignored path="MyAngularProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404122068908" ignored="false" />
+    <file path="/Dummy.txt" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404122107234" ignored="false" />
     <file path="/base.css" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404122001198" ignored="false" />
     <file path="/index.html" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404121501453" ignored="false" />
     <file path="/dummy.xml" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404121498330" ignored="false" />
@@ -258,7 +258,11 @@
       <created>1404122078307</created>
       <updated>1404122078307</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit from webstorm.">
+      <created>1404122109548</created>
+      <updated>1404122109548</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
