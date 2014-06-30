@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/base.css" afterPath="$PROJECT_DIR$/app/style/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyAngularProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404121970586" ignored="false" />
+    <file path="/Dummy.txt" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404122032960" ignored="false" />
     <file path="/base.css" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404122001198" ignored="false" />
     <file path="/index.html" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404121501453" ignored="false" />
     <file path="/dummy.xml" changelist="7fb3e8d1-fd7e-416d-8a83-ec0edf9b472b" time="1404121498330" ignored="false" />
@@ -251,12 +250,18 @@
       <created>1404121007453</created>
       <updated>1404121007453</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit from webstorm.">
+      <created>1404122036217</created>
+      <updated>1404122036217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1616" height="1216" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32923368" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -317,7 +322,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit from webstorm." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -331,6 +336,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Commit from webstorm." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
