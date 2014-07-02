@@ -8,7 +8,7 @@ function getContextPath() {
 }
 
 var _config = {
-    contextPath: '/MyAngularProject', // "http://localhost:8000/MyAngularProject"
+    contextPath: '/', // "http://localhost:8000/MyAngularProject"
     service: {
         offline: true,
         proxy: {
@@ -111,14 +111,26 @@ app.constant('config', _config);
 // Configuring $routeProvider
 app.config(['$routeProvider', function($routeProvider) {
     $routeProvider
-        .when('/', {
+        .when('/bulletin', {
             templateUrl: 'views/home.html',
             controller: 'HomeCtrl'
         })
-        .when('/app', {
+        .when('/company', {
+            templateUrl: 'views/home.html',
+            controller: 'HomeAppCtrl'
+        })
+        .when('/news', {
             templateUrl: 'views/home.html',
             controller: 'HomeCtrl'
-        });/*
+        })
+        .when('/management', {
+            templateUrl: 'views/home.html',
+            controller: 'HomeAppCtrl'
+        })
+        .when('/union', {
+            templateUrl: 'views/home.html',
+            controller: 'HomeCtrl'
+        })/*
         .when('/food', {
             templateUrl: 'views/diet.html',
             controller: 'DietCtrl'
@@ -138,10 +150,10 @@ app.config(['$routeProvider', function($routeProvider) {
         .when('/about', {
             templateUrl: 'views/about.html',
             controller: 'AboutCtrl'
-        })
+        })  */
         .otherwise({
-            redirectTo: '/'
-        })*/
+            redirectTo: '/bulletin'
+        })
 }]);
 
 

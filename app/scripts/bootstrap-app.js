@@ -20,9 +20,9 @@
 
         $LAB
             .queueScript([
-                './vendor/bootstrap.min.js',
                 './vendor/jquery-1.11.1.min.js',
-                './vendor/angular-1.2.18.js',
+                './vendor/bootstrap.min.js',
+                './vendor/angular.min.js',
                 './vendor/underscore-min.js'
             ]).queueWait()
             /*.queueScript(function() {
@@ -61,12 +61,11 @@
             ])
             .queueScript([
                 'scripts/filters/filters.js'
-            ])
+            ])*/
             .queueScript([
-                'scripts/controllers/channel.js',
-                'scripts/controllers/dataStorage.js',
-                'scripts/controllers/dataService.js'
-            ])
+                'scripts/services/channel.js',
+                'scripts/services/dataStorage.js'
+            ])/*
             .queueScript([
                 'scripts/controllers/debugboxCtrl.js'
             ])*/;
